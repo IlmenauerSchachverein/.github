@@ -1,9 +1,9 @@
 # 🚀 Umzug auf unsere eigene GitLab-Instanz
 
-Der **Ilmenauer Schachverein** hat seine Projekte vollständig von **GitHub** auf eine eigene, selbst gehostete **GitLab-Instanz** migriert.
+Der **Ilmenauer Schachverein** hat seine Projekte vollständig von **GitHub** auf einer **GitLab-Instanz** migriert.
 
 🔗 **Alle Repositories und Projekte sind ab sofort unter folgendem Link erreichbar:**  
-👉 [https://gitlab.ilmenauer-schachverein.de](https://gitlab.ilmenauer-schachverein.de)
+👉 [https://gitlab.erik-skopp.de/ilmenauerschachverein/](https://gitlab.erik-skopp.de/ilmenauerschachverein/)
 
 Diese Umstellung ermöglicht uns eine bessere Verwaltung, mehr Kontrolle über unsere Daten und eine effizientere Organisation unserer Turniere und Vereinsprojekte.
 
@@ -16,10 +16,10 @@ _Ilmenauer Schachverein_
 
 # 🚀 Migration to Our Own GitLab Instance
 
-The **Ilmenauer Chess Club** has completely migrated its projects from **GitHub** to its own self-hosted **GitLab instance**.
+The **Ilmenauer Chess Club** has completely migrated its projects from **GitHub** to its own a  **GitLab instance**.
 
 🔗 **All repositories and projects are now available at:**  
-👉 [https://gitlab.ilmenauer-schachverein.de](https://gitlab.ilmenauer-schachverein.de)
+👉 [https://gitlab.erik-skopp.de/ilmenauerschachverein/](https://gitlab.erik-skopp.de/ilmenauerschachverein/)
 
 This transition allows us to have better management, more control over our data, and a more efficient organization of our tournaments and club projects.
 
